@@ -1,0 +1,13 @@
+Index,Runner_ID,Runner_Name,Age,Race_Category,Distance_km
+0,R001,Aarav Sharma,24,Marathon,42.195
+1,R002,Priya Verma,29,Half Marathon,21.097
+2,R003,Rahul Singh,22,10K,10.0
+3,R004,Sneha Patel,31,5K,5.0
+4,R005,Vikram Kumar,27,Marathon,42.195
+5,R006,Ananya Gupta,25,10K,10.0
+6,R007,Karan Mehta,33,Half Marathon,21.097
+7,R008,Neha Joshi,21,5K,5.0
+8,R009,Rohan Das,28,Marathon,42.195
+9,R010,Isha Nair,26,10K,10.0
+10,R011,Aditya Rao,30,Half Marathon,21.097
+11,R012,Meera Shah,23,5K,5.0
